@@ -5,5 +5,5 @@
 Estarei colocando neste repositório os exercícios, em Linguagem C, da disciplina Algoritmos e Lógica de Programação, do curso Análise e Desenvolvimento de Sistemas, na Fatec de Itu-Sp.
 A disciplina foi ministrada em Linguagem C, sem qualquer pseudo-código.
 
-Links para as pastas:
-[Tarefa 01](https://github.com/teteUser/algoritmos_e_log_de_prog_FATEC_ITU/tree/master/Tarefa%201)
+###### Links para as pastas:
+- [Tarefa 01](https://github.com/teteUser/algoritmos_e_log_de_prog_FATEC_ITU/tree/master/Tarefa%201)
