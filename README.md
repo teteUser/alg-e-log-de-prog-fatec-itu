@@ -6,4 +6,4 @@ Estarei colocando neste repositório os exercícios, em Linguagem C, da discipli
 A disciplina foi ministrada em Linguagem C, sem qualquer pseudo-código.
 
 Links para as pastas:
-[Tarefa 01]()
+[Tarefa 01](https://github.com/teteUser/algoritmos_e_log_de_prog_FATEC_ITU/tree/master/Tarefa%201)
