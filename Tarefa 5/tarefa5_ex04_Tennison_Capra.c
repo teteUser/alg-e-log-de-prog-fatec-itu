@@ -5,8 +5,10 @@
 // Tarefa 5 - Exercício 4
 // Tennison Capra
 
-/*	4. Calcular a média de um aluno em um semestre com duas provas, onde M = (P1 + P2) / 2. 
-    Se a média for maior ou igual a 5 escreva “aprovado”, senão calcule e mostre quanto faltou para atingir 5. */
+/*
+	4. Calcular a média de um aluno em um semestre com duas provas, onde M = (P1 + P2) / 2. 
+    Se a média for maior ou igual a 5 escreva “aprovado”, senão calcule e mostre quanto faltou para atingir 5.
+*/
 
 int main(){
 	setlocale(LC_ALL, "Portuguese");
