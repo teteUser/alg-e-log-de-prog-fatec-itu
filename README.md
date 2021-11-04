@@ -15,4 +15,4 @@ A disciplina foi ministrada em Linguagem C, sem qualquer pseudo-código.
 - [Tarefa 07](https://github.com/teteUser/algoritmos_e_log_de_prog_FATEC_ITU/tree/master/Tarefa%2007)
 - [Tarefa 08](https://github.com/teteUser/algoritmos_e_log_de_prog_FATEC_ITU/tree/master/Tarefa%2008)
 - [Tarefa 09](https://github.com/teteUser/algoritmos_e_log_de_prog_FATEC_ITU/tree/master/Tarefa%2009)
-- [Tarefa 10](https://github.com/teteUser/algoritmos_e_log_de_prog_FATEC_ITU/tree/master/Tarefa%20010)
+- [Tarefa 10](https://github.com/teteUser/algoritmos_e_log_de_prog_FATEC_ITU/tree/master/Tarefa%2010)
